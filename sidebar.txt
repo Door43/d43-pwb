@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pwb:home|Door43 (pwb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pwb|d43-pwb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pwb/archive/master.zip|d43-pwb.zip]]
+
+**Recent Changes**
+{{changes>ns = pwb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pwb|Ethnologue data]]
+
